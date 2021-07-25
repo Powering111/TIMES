@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">시간기록계</string>
+    <string name="zeroTime">00:00:00</string>
+    <string name="zero">0</string>
+    <string name="startChecking">시간 측정 시작</string>
+    <string name="stopChecking">시간 측정 종료</string>
+    <string name="initializeTime">초기화</string>
+    <string name="startClock">시간 측정 시작</string>
+</resources>
